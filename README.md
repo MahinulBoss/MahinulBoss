@@ -4,7 +4,7 @@
 
 👋Hello Everyone. I'm Mahinul Islam😎. Am Read in Clad 10 🧑.Basically am a junior Web Dev. Not Fully Professional Dev am Learning on.
 
-Skills: JS / HTML / CSS
+Skills: HTML / CSS
 
 - 🔭 I’m currently working on https://mahinul-islam-1.mahinul.repl.co/mahinul.dev page. 
 - 🌱 I’m currently learning HTML/CSS/JS 
