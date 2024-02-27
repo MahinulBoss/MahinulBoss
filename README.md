@@ -35,20 +35,3 @@ Hello there! I'm Mahinul Islam, a passionate junior web developer with a flair f
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MahinulBoss&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/MahinulBoss"><img src="https://github-readme-stats.vercel.app/api?username=MahinulBoss&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=a855f7&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="MahinulBoss's GitHub stats" /></a>
-
-<a href="http://www.github.com/MahinulBoss"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MahinulBoss&stroke=a855f7&background=171717&ring=3382ed&fire=3382ed&currStreakNum=a855f7&currStreakLabel=3382ed&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
-
-<a href="http://www.github.com/MahinulBoss"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=MahinulBoss&bg_color=171717&color=a855f7&line=0891b2&point=a855f7&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/MahinulBoss" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahinulBoss&langs_count=10&title_color=3382ed&text_color=a855f7&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/MahinulBoss/mahinulislam" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MahinulBoss&repo=mahinulislam&title_color=3382ed&text_color=a855f7&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
