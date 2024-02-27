@@ -6,7 +6,7 @@
 
 Skills: HTML / CSS
 
-- 🔭 I’m currently working on https://mahinul-islam-1.mahinul.repl.co/mahinul.dev page. 
+- 🔭 I’m currently working on [https://mahinul-islam-1.mahinul.repl.co/mahinul.dev](https://8b7a5cd1-d7a9-46c3-af13-504d72471144-00-kla0weyxrrzw.picard.replit.dev/) page. 
 - 🌱 I’m currently learning HTML/CSS/JS 
 
 
