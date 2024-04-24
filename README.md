@@ -7,7 +7,7 @@ Web-Devloper
 Hello there! I'm Mahinul Islam, a passionate junior web developer with a flair for crafting digital experiences. My journey into the world of web development began with a curiosity-driven click, and it's been an exhilarating ride ever since. I have a foundation in HTML and CSS, and I'm constantly expanding my skill set to keep pace with the dynamic web landscape. From designing sleek, responsive layouts to optimizing code for performance, I thrive on the creative and technical challenges that web development One of my favorite aspects of this field is problem-solving.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [https://mahinulislam.com](http://mahinul-islam.netlif.app)
+* 🖥️  See my portfolio at [https://mahinulislam.com](http://mahinul-islam.netlify.app)
 * ✉️  You can contact me at [mahinulmohon2006@gmail.com](mailto:mahinulmohon2006@gmail.com)
 
 
